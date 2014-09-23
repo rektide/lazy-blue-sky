@@ -1,0 +1,14 @@
+{
+	"name": "lazy-blue-sky",
+	"version": "1.0.0",
+	"description": "Lazy Blue Sky enriches everyday objects with observables and promises, invert inversion of control",
+	"main": "lazy-blue-sky.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "rektide",
+	"license": "X",
+	"dependencies": {
+		"observed": "^1.0.0"
+	}
+}
